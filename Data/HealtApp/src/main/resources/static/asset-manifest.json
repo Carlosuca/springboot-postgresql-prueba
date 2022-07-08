@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba788f23.css",
+    "main.js": "/static/js/main.663c35ab.js",
+    "static/js/787.4d5c1877.chunk.js": "/static/js/787.4d5c1877.chunk.js",
+    "static/media/masksbackgroundWall.jpg": "/static/media/masksbackgroundWall.23990b606fc0bd65cee6.jpg",
+    "static/media/zeltser.jpg": "/static/media/zeltser.b4c04c97de711a9ec74a.jpg",
+    "static/media/hepatitis.jpg": "/static/media/hepatitis.cac15969d71523c365f9.jpg",
+    "static/media/aspirina.jpg": "/static/media/aspirina.c91a6313670979776e8f.jpg",
+    "static/media/ad.png": "/static/media/ad.20fa90b8317a95995dab.png",
+    "static/media/covidimage.jpg": "/static/media/covidimage.cba5e578f56c20b67ea5.jpg",
+    "static/media/influenza.jpg": "/static/media/influenza.74905169851a54dabc3c.jpg",
+    "static/media/convulsiones.jpg": "/static/media/convulsiones.8b49fcd5dfb7bdeacf27.jpg",
+    "static/media/sangrado.jpg": "/static/media/sangrado.c7bfa5cb0f1a4a3d0237.jpg",
+    "static/media/amoxi.jpg": "/static/media/amoxi.db85d57961c8931570ab.jpg",
+    "static/media/ibuprofeno.jpg": "/static/media/ibuprofeno.45efe97ccd34c656488d.jpg",
+    "static/media/infeccionu.png": "/static/media/infeccionu.34a7f0fc775964e5135e.png",
+    "static/media/shock.jpg": "/static/media/shock.e8389749c8b4dc603787.jpg",
+    "static/media/asfixia.jpg": "/static/media/asfixia.e0f63e86ef3e48fe1c25.jpg",
+    "static/media/DificultadR.jpg": "/static/media/DificultadR.e7a56be12a2f7a312823.jpg",
+    "static/media/garganta.jpg": "/static/media/garganta.1ceac53774a8ea12226e.jpg",
+    "static/media/intoxicacion.jpg": "/static/media/intoxicacion.cb6b5a28b9cf1885385d.jpg",
+    "static/media/primerosauxilios.jpg": "/static/media/primerosauxilios.4c04450db6e59e3b649d.jpg",
+    "static/media/raspadura1.png": "/static/media/raspadura1.31418c82e4690a678d12.png",
+    "index.html": "/index.html",
+    "main.ba788f23.css.map": "/static/css/main.ba788f23.css.map",
+    "main.663c35ab.js.map": "/static/js/main.663c35ab.js.map",
+    "787.4d5c1877.chunk.js.map": "/static/js/787.4d5c1877.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba788f23.css",
+    "static/js/main.663c35ab.js"
+  ]
+}
